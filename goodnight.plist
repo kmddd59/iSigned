@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://kmdu59.noestorage.net/apps/com.nfl.gamepass2011-signed.ipa</string>
+					<string>http://kmdu59.noestorage.net/apps/com.adatech.goodnight-signed.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.nfl.gamepass2011.2535</string>
+				<string>com.adatech.goodnight-signed</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>NFL GamePass</string>
+				<string>GoodNight</string>
 			</dict>
 		</dict>
 	</array>
