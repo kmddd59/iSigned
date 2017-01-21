@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://kmdu59.noestorage.net/apps/com.panic.Prompt2-signed.ipa</string>
+					<string>http://kmdu59.noestorage.net/apps/com.nfl.gamepass2011-signed.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.panic.Prompt2</string>
+				<string>com.nfl.gamepass2011</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Prompt</string>
+				<string>NFL GamePass</string>
 			</dict>
 		</dict>
 	</array>
