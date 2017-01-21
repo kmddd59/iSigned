@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>xyz.isigned.delta</string>
+				<string>org.infinidev.nds4ios</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>

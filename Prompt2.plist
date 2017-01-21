@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>xyz.isigned.delta</string>
+				<string>com.panic.Prompt2</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
